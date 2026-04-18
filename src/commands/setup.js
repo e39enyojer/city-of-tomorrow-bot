@@ -228,8 +228,8 @@ module.exports = [
             '**7.** In-game rules apply — no exploiting, hacking, or exploiting bugs.\n' +
             '**8.** Listen to staff members at all times.\n\n' +
             '*Breaking rules may result in a warning, mute, kick, or ban.*'
-          )
-        ]).catch(() => {});
+          )]
+        }).catch(() => {});
       }
 
       // Final report
